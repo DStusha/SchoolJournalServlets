@@ -1,0 +1,10 @@
+com\servlets\InputRegServlet.class
+com\servlets\StartServlet.class
+com\models\Subject.class
+com\models\User.class
+com\dao\SchoolDayDAO.class
+com\dao\UserDAO.class
+com\servlets\JournalServlet.class
+com\servlets\EditServlet.class
+com\models\SchoolDay.class
+com\dao\SubjectDAO.class
